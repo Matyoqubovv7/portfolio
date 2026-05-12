@@ -44,7 +44,7 @@ export default function Navbar() {
               <span className="font-display font-bold text-accent text-lg">X</span>
             </div>
             <span className="font-display font-semibold text-text hidden sm:block">
-              Xudoyshukur
+              Xudayshukur
               <span className="text-accent">.</span>
             </span>
           </button>
